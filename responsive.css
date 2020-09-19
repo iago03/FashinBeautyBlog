@@ -1,0 +1,77 @@
+@media screen and (max-width: 1000px){
+    footer .content .info ul{
+        width: 48%!important;
+    }
+    footer .content .info form{
+        width: 48%;
+    }
+
+    /* contact */
+    main .Contact-form .input, main .Contact-form .contact-textarea {
+        width: 80%;
+    }
+    /* contact */
+}
+
+@media screen and (max-width: 900px){
+    footer .content .title h2{
+        width: 60%;
+    }
+}
+
+@media screen and (max-width: 600px){
+    main .card-area .card {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    footer .content .title h2{
+        width: 40%;
+    }
+
+    footer .content .info ul{
+        width: 100%!important;
+        text-align: center;
+    }
+    footer .content .info form{
+        width: 100%;
+    }
+
+    /* contact */
+    main .Contact-form .input, main .Contact-form .contact-textarea {
+        width: 90%;
+    }
+    main .Contact-form .input div{
+        width: 100%;
+    }
+    /* contact */
+
+}
+
+/* about */
+@media screen and (max-width: 630px){
+    main .about-img .first-img .second-img{
+        display: none;
+    }
+
+    main .about-text{
+        padding: 0px 20px;
+    }
+}
+
+/* about */
+
+
+/* journal */
+@media screen and (max-width: 800px){
+    main .Jurnal-card-area .blog-card{
+        width: 48%;
+    }
+}
+
+@media screen and (max-width: 530px){
+    main .Jurnal-card-area .blog-card{
+        width: 100%;
+    }
+}
+/* journal */
