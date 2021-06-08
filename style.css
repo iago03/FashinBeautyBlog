@@ -110,7 +110,7 @@ main .card-area .image-card{
 
 .image-card img {
     width:100%;
-    max-height: 407px;
+    height: 407px;
     object-fit: cover;
 }
 
